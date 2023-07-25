@@ -1,1 +1,1 @@
-# ipad_online_juoyter
+# ipad_online_jupyter
